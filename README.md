@@ -1,51 +1,27 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# IA Generativa no Ramo Musical
 
 ## 📒 Descrição
-Breve descrição do seu projeto
 
-## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Criação de música utilizando IA Generativa para avaliação de funcionalidade em um ramo altamente demandante e 
 
-## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
+### 🤖 Tecnologias Utilizadas
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+Utilização do GPT para criação da letra musical e IA SUNO para criação de melodia a letra.
 
-### Exemplos e Insigths
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+### 🧐 Processo de Criação
 
-## Links Interessantes
+Utilização de IA generativa GPT para criação de melodia voltado para o cotidiano de várias pessoas que buscam melhores tempos e dias, em gênero MPB para gerar melodia mais suave.
+Utilização de IA generativa SUNO para dar voz a letra criada. 
 
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
+### 🚀 Resultados
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Resultado: https://suno.com/song/d4b2f801-8c21-479c-ad31-e6a18b39a748. Também se encontra dentro deste repositório.
+
+
+### 💭 Reflexão (Opcional)
+
+A IA na criação musical representa uma fronteira emocionante e repleta de potencial. Ela pode ampliar as capacidades humanas, inspirar novas direções artísticas e democratizar a criação musical. No entanto, é crucial manter um equilíbrio, valorizando a colaboração entre a criatividade humana e as capacidades tecnológicas, e abordando os desafios éticos e artísticos que emergem com essa nova tecnologia. A música, em sua essência, é uma expressão profundamente humana, e a integração da IA nesse processo deve sempre buscar enriquecer e não substituir essa humanidade.
+
+
