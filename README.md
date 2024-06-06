@@ -2,7 +2,7 @@
 
 ## 📒 Descrição
 
-Criação de música utilizando IA Generativa para avaliação de funcionalidade em um ramo altamente demandante e 
+Criação de música utilizando IA Generativa para avaliação de funcionalidade em um ramo altamente demandante e competitiva.
 
 
 ### 🤖 Tecnologias Utilizadas
